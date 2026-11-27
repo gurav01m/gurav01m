@@ -50,6 +50,16 @@
   <img src="https://streak-stats.demolab.com?user=gurav01m&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+## 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurav01m/gurav01m/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurav01m/gurav01m/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/gurav01m/gurav01m/output/github-snake.svg" />
+  </picture>
+</p>
+
 ## 🧩 LeetCode
 
 <p align="center">
