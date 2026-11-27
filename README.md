@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=180&section=header&text=Gurav%20Yadav&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=IT%20Student%20%40%20IIIT%20Bhopal&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/gurav01m">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+agents+with+Python+%F0%9F%A4%96;FastAPI+%7C+RAG+%7C+LLM+tool-calling;Solving+DSA+problems+in+C%2B%2B+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+agents+with+Python+%F0%9F%A4%96;Built+a+load+balancer+from+scratch+%E2%9A%96%EF%B8%8F;FastAPI+%7C+RAG+%7C+LLM+tool-calling;Solving+DSA+problems+in+C%2B%2B+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p>
@@ -18,19 +18,23 @@
 
 - 🎓 Information Technology student at **IIIT Bhopal**
 - 🤖 Building an **autonomous coding agent** — LLM tool-calling, RAG with ChromaDB, MCP, FastAPI streaming
+- ⚖️ Built an **HTTP load balancer from scratch** — keep-alive connection pooling, consistent hashing, circuit breaker, rate limiting, multi-core workers; benchmarked at 2.6x throughput from connection reuse
 - 🧠 Practising **Data Structures & Algorithms** in C++ every day
-- 🌱 Currently exploring **AI agents, LLM apps and backend development**
+- 🌱 Currently exploring **AI agents, LLM apps, backend and distributed systems**
 - 📍 Bhopal, India
 
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,fastapi,sqlite,git,github,vscode,linux&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,fastapi,sqlite,docker,githubactions,git,github,vscode,linux&perline=11" alt="Tech stack" />
 </p>
 
-## 🚀 Featured project
+## 🚀 Featured projects
 
 <p align="center">
+  <a href="https://github.com/gurav01m/load-balancer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurav01m&repo=load-balancer&theme=tokyonight&hide_border=true" alt="load-balancer" />
+  </a>
   <a href="https://github.com/gurav01m/Minor-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurav01m&repo=Minor-Project&theme=tokyonight&hide_border=true" alt="Minor-Project" />
   </a>
